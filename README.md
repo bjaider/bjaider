@@ -9,5 +9,5 @@ Skills: REACT / NEXT JS / VUE JS / HTML / CSS / JS
 
 - 🔭 I’m currently working on Livery S.A.S
 - 🌱 I’m currently learning Svelte and Flutter
-- 💬 Ask me about Colombia and its culture :colombia:
+- 💬 Ask me about Colombia and its culture
 - 📫 How to reach me: bjaider@uninorte.edu.co
