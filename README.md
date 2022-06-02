@@ -3,7 +3,7 @@
 I'm Junior Front-end Developer
 
 <!---
-![alt text](https://res.cloudinary.com/dhxg3zyjz/image/upload/v1625108714/1587092424852_mxvka3.png)
+![alt text](https://assets-global.website-files.com/5fb54f94c7530ffde5620e2b/5febd16646a171505e60749a_leantech-logo.svg)
 -->
 
 
