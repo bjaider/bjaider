@@ -10,7 +10,7 @@ I'm Software Developer
 Skills: REACT / NEXT JS / NODE / HTML / CSS / JS 
 
 
-- 🔭 I’m currently working on Lean Tech
+- 🔭 I’m currently working on Soluntech
 - 🌱 I’m currently learning Svelte and Flutter
 - 💬 Ask me about Colombia and its culture
 - 📫 How to reach me: bjaider97@gmail.com
